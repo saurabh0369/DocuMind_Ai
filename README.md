@@ -14,7 +14,15 @@ An AI-powered PDF question-answering application built using **Retrieval-Augment
 - **LLM-Powered Answers:** Generate contextual responses using Qwen2.5-3B-Instruct with 4-bit quantization.
 - **Page-Level Citations:** Display source page references alongside answers.
 - **Interactive Interface:** Use a Streamlit application with Dark and Light themes.
+## 🌐 Live Demo
 
+Try the application: [DocuMind AI](https://viewable-heaviness-twisted.ngrok-free.dev)
+
+> Note: The demo is hosted through a temporary runtime and may be unavailable when the runtime or tunnel is stopped.
+
+## 🖼️ Application Preview
+
+![DocuMind AI Demo](documind-demo.png)
 ## 🛠️ Tech Stack
 
 | Component | Technology |
